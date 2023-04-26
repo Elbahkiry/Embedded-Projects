@@ -1,0 +1,1 @@
+gcc app.c "../Card/card.c" "../Server/server.c" "../Terminal/terminal.c"
